@@ -13,7 +13,7 @@
 
 ## Why it matters
 
-Have you ever watched a programmer at work and thought, "I could never do that — I was terrible at math"? Here is the best-kept secret in the whole industry: **most programming involves almost no math**. What programmers are actually good at is *breaking big fuzzy problems into small exact steps*. That is a skill, not a talent. You can learn it. In fact, you already use it — you've just never given it a name.
+Have you ever watched a programmer at work and thought, "I could never do that — I was terrible at math"? Here is the best-kept secret in the whole industry: **most programming involves almost no math**. What programmers are actually good at is *breaking big fuzzy problems into small exact steps*. That is a skill, not a talent. You can learn it. In fact, you already use it — you've never been told its name, that's all.
 
 This module teaches you that skill *before* you write a single line of code. By the end, real code (which we write in [Module 05](../05-your-first-code/README.md)) will feel like a small final step, not a leap off a cliff.
 

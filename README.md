@@ -1,132 +1,149 @@
-# 🌍 Software Engineering in English
+<div align="center">
 
-### The complete software engineering course for people who don't speak "tech" — yet.
+![Software Engineering in Plain English](images/banner.svg)
 
-> **No experience needed. No expensive computer needed. No math degree needed.**
-> If you can read this page, you can finish this course — and by the end, you will
-> understand how software really works, be able to write your first programs, and hold
-> your own in any technical conversation.
+# 🌍 Software Engineering in English — A Curriculum
+
+[![GitHub license](https://img.shields.io/github/license/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/blob/main/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
+
+[![GitHub watchers](https://img.shields.io/github/watchers/thetpmguy/software-engineering-in-english.svg?style=social&label=Watch)](https://github.com/thetpmguy/software-engineering-in-english/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/thetpmguy/software-engineering-in-english.svg?style=social&label=Fork)](https://github.com/thetpmguy/software-engineering-in-english/network/)
+[![GitHub stars](https://img.shields.io/github/stars/thetpmguy/software-engineering-in-english.svg?style=social&label=Star)](https://github.com/thetpmguy/software-engineering-in-english/stargazers/)
+
+**The complete software engineering course for people who don't speak "tech" — yet.**
+
+*No experience needed. No expensive computer needed. No math degree needed.*
+
+</div>
+
+### 🌐 Multi-Language Support
+
+> Lessons are being translated by the community — the course homepage is available in
+> every language below, with full lessons following. [Help translate!](translations/README.md)
+
+[العربية (Arabic)](translations/ar/README.md) | [বাংলা (Bengali)](translations/bn/README.md) | [Deutsch (German)](translations/de/README.md) | [Español (Spanish)](translations/es/README.md) | [Français (French)](translations/fr/README.md) | [हिन्दी (Hindi)](translations/hi/README.md) | [Bahasa Indonesia (Indonesian)](translations/id/README.md) | [日本語 (Japanese)](translations/ja/README.md) | [Português (Portuguese)](translations/pt/README.md) | [Русский (Russian)](translations/ru/README.md) | [Kiswahili (Swahili)](translations/sw/README.md) | [தமிழ் (Tamil)](translations/ta/README.md) | [తెలుగు (Telugu)](translations/te/README.md) | [اردو (Urdu)](translations/ur/README.md) | [中文-简体 (Chinese, Simplified)](translations/zh/README.md)
 
 ---
+
+If you can read this page, you can finish this course. By the end you will understand how
+software really works, write your first programs, publish a real website, and hold your
+own in any technical conversation — explained entirely in plain English, with analogies
+from everyday life.
 
 ## 🤔 Who is this for?
 
-You — if any of these sound familiar:
-
 - "I use apps every day but I have **no idea how any of it actually works**."
-- "I work *with* engineers (as a manager, designer, marketer, founder, lawyer, doctor…)
-  and I'm tired of **nodding along in meetings**."
-- "I want to **switch careers into tech** but every course I open assumes I already know
-  things I don't."
-- "I'm just **curious** how the digital world around me is built."
+- "I work *with* engineers (manager, designer, founder, lawyer, doctor…) and I'm tired of
+  **nodding along in meetings**."
+- "I want to **switch careers into tech** but every course assumes things I don't know."
+- "I'm **curious** how the digital world around me is built."
 
-There are **no prerequisites**. We explain everything — including what a "file" really
-is — in plain English, with analogies from everyday life.
+There are **no prerequisites** — we explain everything, including what a "file" really is.
 
-## 🎓 What you'll be able to do at the end
+## 🎓 What you will learn
 
-- Explain how computers, the internet, apps, databases, the cloud, and AI actually work —
-  in words your family would understand.
-- Read and write simple programs in Python.
-- Use Git and GitHub like a professional (you'll even publish your own website with them).
-- Understand how real software teams plan, build, test, and ship products.
-- Talk to engineers as an equal: you'll know what an API, a server, a bug, a deploy, and
-  a "sprint" really are.
-- Complete a **capstone project**: something real, built by you, live on the internet.
+- How computers, software, the internet, databases, the cloud, and AI actually work.
+- How to read and write simple programs in Python.
+- How to use Git and GitHub like a professional (you'll publish your own live website).
+- How real software teams plan, build, test, and ship products.
+- How to talk to engineers as an equal — APIs, servers, bugs, deploys, and sprints, decoded.
 
-## 🗺️ The Course Map
+**What we will not cover:** advanced mathematics, specific enterprise tools, or hype. Every
+analogy also tells you where it breaks down, and the AI module is honest about limits.
 
-Work through the parts in order — each one builds on the last. Every module has a
-**lesson**, a hands-on **lab** (works in any web browser, even on a phone), a **quiz**,
-and a curated list of free **extra resources**.
+## 🚀 Getting Started
 
-### Part 1 — The Machine 🖥️
-*What is actually happening inside that glowing rectangle?*
+1. **⭐ Star this repo** so you can find your way back.
+2. Read **[START HERE](START_HERE.md)** (5 minutes) — how the course works and the free
+   browser tools you'll use. **Nothing needs to be installed.** Every lab runs in a web
+   browser, even on a phone.
+3. Begin with [Module 01](modules/01-what-is-a-computer/README.md) — or pick a shortcut
+   from **[Learning Paths](LEARNING_PATHS.md)** ("I have one weekend", "I manage
+   engineers", "I only care about AI"…).
+4. Stuck on a word? The **[Glossary](GLOSSARY.md)** defines every term in one plain sentence.
 
-| # | Module | You'll finally understand… |
-|---|--------|---------------------------|
-| 01 | [What Is a Computer, Really?](modules/01-what-is-a-computer/README.md) | Chips, memory, storage, and why "have you tried turning it off and on" works |
-| 02 | [What Is Software?](modules/02-what-is-software/README.md) | Programs, operating systems, apps, files — and where apps come from |
-| 03 | [How the Internet Works](modules/03-how-the-internet-works/README.md) | What really happens in the 2 seconds after you type a web address |
+> **Teachers & study groups:** everything is free to reuse under the [license](LICENSE).
+> Fork the repo and adapt it to your classroom.
 
-### Part 2 — Thinking Like an Engineer 🧠
-*The mindset is 80% of the job. The code is the easy part.*
+## 📚 The Curriculum
 
-| # | Module | You'll finally understand… |
-|---|--------|---------------------------|
-| 04 | [How to Think Like a Programmer](modules/04-think-like-a-programmer/README.md) | Algorithms — and how to break any problem into steps a machine can follow |
-| 05 | [Your First Code](modules/05-your-first-code/README.md) | Variables, loops, and decisions — you'll write real Python, in your browser |
-| 06 | [Data: The World's New Oil](modules/06-data/README.md) | What data actually is, and how software remembers things |
+Every module contains a plain-English **Lesson**, a browser-based **Lab**, a self-check
+**Quiz**, and curated free **Extra Resources**. Work top to bottom — each module builds
+on the last.
 
-### Part 3 — How Real Software Gets Built 🏗️
-*From sticky note to app store: the actual process professionals use.*
+| # | Module | Lesson | Lab | Quiz | Extras |
+| :-: | :------- | :-: | :-: | :-: | :-: |
+| **I** | **The Machine** 🖥️ — *what's inside the glowing rectangle* | | | | |
+| 01 | What Is a Computer, Really? | [Lesson](modules/01-what-is-a-computer/README.md) | [Lab](modules/01-what-is-a-computer/lab.md) | [Quiz](modules/01-what-is-a-computer/quiz.md) | [Links](modules/01-what-is-a-computer/resources.md) |
+| 02 | What Is Software? | [Lesson](modules/02-what-is-software/README.md) | [Lab](modules/02-what-is-software/lab.md) | [Quiz](modules/02-what-is-software/quiz.md) | [Links](modules/02-what-is-software/resources.md) |
+| 03 | How the Internet Works | [Lesson](modules/03-how-the-internet-works/README.md) | [Lab](modules/03-how-the-internet-works/lab.md) | [Quiz](modules/03-how-the-internet-works/quiz.md) | [Links](modules/03-how-the-internet-works/resources.md) |
+| **II** | **Thinking Like an Engineer** 🧠 — *the mindset is 80% of the job* | | | | |
+| 04 | How to Think Like a Programmer | [Lesson](modules/04-think-like-a-programmer/README.md) | [Lab](modules/04-think-like-a-programmer/lab.md) | [Quiz](modules/04-think-like-a-programmer/quiz.md) | [Links](modules/04-think-like-a-programmer/resources.md) |
+| 05 | Your First Code (Python, in the browser) | [Lesson](modules/05-your-first-code/README.md) | [Lab](modules/05-your-first-code/lab.md) | [Quiz](modules/05-your-first-code/quiz.md) | [Links](modules/05-your-first-code/resources.md) |
+| 06 | Data: The World's New Oil | [Lesson](modules/06-data/README.md) | [Lab](modules/06-data/lab.md) | [Quiz](modules/06-data/quiz.md) | [Links](modules/06-data/resources.md) |
+| **III** | **How Real Software Gets Built** 🏗️ — *from sticky note to app store* | | | | |
+| 07 | From Idea to App: The Software Development Lifecycle | [Lesson](modules/07-idea-to-app/README.md) | [Lab](modules/07-idea-to-app/lab.md) | [Quiz](modules/07-idea-to-app/quiz.md) | [Links](modules/07-idea-to-app/resources.md) |
+| 08 | Git & GitHub: The Time Machine for Teamwork | [Lesson](modules/08-git-and-github/README.md) | [Lab](modules/08-git-and-github/lab.md) | [Quiz](modules/08-git-and-github/quiz.md) | [Links](modules/08-git-and-github/resources.md) |
+| 09 | Why Software Breaks: Bugs, Testing & Quality | [Lesson](modules/09-bugs-and-testing/README.md) | [Lab](modules/09-bugs-and-testing/lab.md) | [Quiz](modules/09-bugs-and-testing/quiz.md) | [Links](modules/09-bugs-and-testing/resources.md) |
+| 10 | The Anatomy of an App: Frontend, Backend & APIs | [Lesson](modules/10-anatomy-of-an-app/README.md) | [Lab](modules/10-anatomy-of-an-app/lab.md) | [Quiz](modules/10-anatomy-of-an-app/quiz.md) | [Links](modules/10-anatomy-of-an-app/resources.md) |
+| **IV** | **Computer Science, Minus the Scary Math** 🔬 — *the famous ideas, humanely* | | | | |
+| 11 | Algorithms & Data Structures in Plain English | [Lesson](modules/11-algorithms-and-data-structures/README.md) | [Lab](modules/11-algorithms-and-data-structures/lab.md) | [Quiz](modules/11-algorithms-and-data-structures/quiz.md) | [Links](modules/11-algorithms-and-data-structures/resources.md) |
+| 12 | Databases: Where Everything Lives | [Lesson](modules/12-databases/README.md) | [Lab](modules/12-databases/lab.md) | [Quiz](modules/12-databases/quiz.md) | [Links](modules/12-databases/resources.md) |
+| 13 | Operating Systems & Networks: The Invisible Managers | [Lesson](modules/13-operating-systems-and-networks/README.md) | [Lab](modules/13-operating-systems-and-networks/lab.md) | [Quiz](modules/13-operating-systems-and-networks/quiz.md) | [Links](modules/13-operating-systems-and-networks/resources.md) |
+| 14 | Security: Locks, Keys & Digital Self-Defense | [Lesson](modules/14-security/README.md) | [Lab](modules/14-security/lab.md) | [Quiz](modules/14-security/quiz.md) | [Links](modules/14-security/resources.md) |
+| **V** | **The Modern Software World** ☁️ — *the buzzwords, decoded* | | | | |
+| 15 | The Cloud: Renting Other People's Computers | [Lesson](modules/15-the-cloud/README.md) | [Lab](modules/15-the-cloud/lab.md) | [Quiz](modules/15-the-cloud/quiz.md) | [Links](modules/15-the-cloud/resources.md) |
+| 16 | AI & Machine Learning Without the Hype | [Lesson](modules/16-ai-without-the-hype/README.md) | [Lab](modules/16-ai-without-the-hype/lab.md) | [Quiz](modules/16-ai-without-the-hype/quiz.md) | [Links](modules/16-ai-without-the-hype/resources.md) |
+| 17 | Websites, Apps & Everything Else | [Lesson](modules/17-websites-apps-and-beyond/README.md) | [Lab](modules/17-websites-apps-and-beyond/lab.md) | [Quiz](modules/17-websites-apps-and-beyond/quiz.md) | [Links](modules/17-websites-apps-and-beyond/resources.md) |
+| **VI** | **People & Careers** 🧑‍🤝‍🧑 — *software is made by humans* | | | | |
+| 18 | Who Does What in Tech | [Lesson](modules/18-who-does-what-in-tech/README.md) | [Lab](modules/18-who-does-what-in-tech/lab.md) | [Quiz](modules/18-who-does-what-in-tech/quiz.md) | [Links](modules/18-who-does-what-in-tech/resources.md) |
+| 19 | Your Path Into Tech | [Lesson](modules/19-your-path-into-tech/README.md) | [Lab](modules/19-your-path-into-tech/lab.md) | [Quiz](modules/19-your-path-into-tech/quiz.md) | [Links](modules/19-your-path-into-tech/resources.md) |
+| **🏆** | **Capstone: Build Something Real** | [Overview](capstone/README.md) | [Track A: Website](capstone/track-a-personal-website.md) · [Track B: Be the PM](capstone/track-b-be-the-pm.md) · [Track C: Automate](capstone/track-c-automate-your-life.md) | — | [Showcase](capstone/showcase.md) |
 
-| # | Module | You'll finally understand… |
-|---|--------|---------------------------|
-| 07 | [From Idea to App: The Software Development Lifecycle](modules/07-idea-to-app/README.md) | Why building software is like building a house (and why it's not) |
-| 08 | [Git & GitHub: The Time Machine for Teamwork](modules/08-git-and-github/README.md) | How thousands of people edit the same code without chaos |
-| 09 | [Why Software Breaks: Bugs, Testing & Quality](modules/09-bugs-and-testing/README.md) | Why your app crashed, and the armies of tests that try to prevent it |
-| 10 | [The Anatomy of an App: Frontend, Backend & APIs](modules/10-anatomy-of-an-app/README.md) | What "backend" means, and why APIs are like restaurant waiters |
+## 📝 Quizzes & Labs
 
-### Part 4 — Computer Science, Minus the Scary Math 🔬
-*The famous ideas, explained like you're a smart adult — not a math exam.*
+- **Quizzes** live inside each module folder (`quiz.md`) — answers are included under
+  "Show answer" folds, and every quiz ends with an *"explain it to a friend"* challenge.
+- **Labs** (`lab.md`) are hands-on and require **zero installation** — free, browser-based
+  tools only, phone-friendly. Doing the labs is where the learning sticks.
 
-| # | Module | You'll finally understand… |
-|---|--------|---------------------------|
-| 11 | [Algorithms & Data Structures in Plain English](modules/11-algorithms-and-data-structures/README.md) | Why some apps are fast and some are slow — recipes, queues, and dictionaries |
-| 12 | [Databases: Where Everything Lives](modules/12-databases/README.md) | The giant filing cabinets behind every app, and the language (SQL) to talk to them |
-| 13 | [Operating Systems & Networks: The Invisible Managers](modules/13-operating-systems-and-networks/README.md) | What Windows/Android actually *do*, and how machines share one internet |
-| 14 | [Security: Locks, Keys & Digital Self-Defense](modules/14-security/README.md) | Passwords, encryption, hackers — and how to protect yourself today |
+## 🗺️ Course-wide references
 
-### Part 5 — The Modern Software World ☁️
-*The buzzwords in the news, decoded.*
+| Page | What it's for |
+|---|---|
+| [START HERE](START_HERE.md) | How to use the course, schedules, the three tools you need |
+| [Glossary](GLOSSARY.md) | Every tech term in the course, one plain sentence each |
+| [Learning Paths](LEARNING_PATHS.md) | Shortcuts: weekend sprint, manager track, AI-curious, founder… |
+| [FAQ](FAQ.md) | Honest answers: "Am I too old?", "Do I need math?", timelines |
+| [Style Guide](docs/style-guide.md) | The writing rules every lesson follows |
+| [Course Design Notes](docs/course-design.md) | Why the course is built this way |
+| [Audit Report](docs/audit-report.md) | The course reviewed from a non-technical reader's POV |
 
-| # | Module | You'll finally understand… |
-|---|--------|---------------------------|
-| 15 | [The Cloud: Renting Other People's Computers](modules/15-the-cloud/README.md) | What "the cloud" physically is, and why companies pay billions for it |
-| 16 | [AI & Machine Learning Without the Hype](modules/16-ai-without-the-hype/README.md) | How ChatGPT-style tools actually work — honestly, and in plain English |
-| 17 | [Websites, Apps & Everything Else](modules/17-websites-apps-and-beyond/README.md) | Web vs. mobile vs. desktop — how each kind of software is made |
+## 🎒 Offline access
 
-### Part 6 — People & Careers 🧑‍🤝‍🧑
-*Software is made by humans. Here's how they organize — and how to join them.*
+Clone the repository (Module 08 teaches you how) and everything — lessons, labs, quizzes —
+works offline as plain text. Only the external links and browser labs need the internet.
 
-| # | Module | You'll finally understand… |
-|---|--------|---------------------------|
-| 18 | [Who Does What in Tech](modules/18-who-does-what-in-tech/README.md) | Every job title decoded, how "agile" teams work, and how to talk to engineers |
-| 19 | [Your Path Into Tech](modules/19-your-path-into-tech/README.md) | Realistic career routes, free learning roadmaps, and how hiring actually works |
+## 🤝 Contributing & Community
 
-### 🏆 Capstone — [Build Something Real](capstone/README.md)
-Choose your adventure: **publish your own website**, **run a project like a product
-manager**, or **automate a boring task from your real life**. Real proof you can show
-anyone.
-
----
-
-## 🚀 How to start
-
-1. Read **[START HERE](START_HERE.md)** (5 minutes) — how to use this course, how long it
-   takes, and the three simple tools you'll need (all free).
-2. Begin with [Module 01](modules/01-what-is-a-computer/README.md).
-3. Stuck on a word? The **[Glossary](GLOSSARY.md)** defines every technical term in this
-   course in one plain sentence each.
-4. Short on time? See **[Learning Paths](LEARNING_PATHS.md)** for tailored routes ("I
-   have 2 weeks", "I only care about AI", "I manage engineers"…).
-
-## 📚 Course-wide references
-
-- **[Glossary](GLOSSARY.md)** — every tech term, one plain-English sentence each.
-- **[FAQ](FAQ.md)** — honest answers to "Am I too old?", "Do I need math?", and more.
-- **[Learning Paths](LEARNING_PATHS.md)** — shortcuts through the course for specific goals.
-- **[Style Guide](docs/style-guide.md)** — the writing rules every lesson follows.
-- **[Course Design Notes](docs/course-design.md)** — how and why this course is built this way.
-- **[Audit Report](docs/audit-report.md)** — this course, reviewed from a non-technical
-  reader's point of view.
-
-## 🤝 Contributing
-
-Found a confusing sentence? That's a bug in *our* course, not in *your* brain — please
-[open an issue or contribute](CONTRIBUTING.md). Translations are especially welcome.
+Found a confusing sentence? **That's a bug in our course, not in your brain** — please
+[open an issue](https://github.com/thetpmguy/software-engineering-in-english/issues) or send a
+fix: see [CONTRIBUTING](CONTRIBUTING.md). Translations are the most-wanted contribution of
+all: see the [translation guide](translations/README.md). Finishers: add yourself to the
+[Capstone Showcase](capstone/showcase.md) — it doubles as your first pull request.
 
 ## 📄 License
 
-Free for everyone, forever. See [LICENSE](LICENSE).
+Free for everyone, forever — see [LICENSE](LICENSE).
+
+<div align="center">
+
+**Made for the billions of smart people the software industry forgot to explain itself to.**
+
+*If this course helped you, ⭐ star the repo so others can find it.*
+
+</div>

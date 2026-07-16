@@ -20,7 +20,7 @@ music: same piano, different music, completely different behavior.
 
 A list of instructions for a computer, written in advance and stored (as a file) so it
 can be followed on demand. Every app, from Calculator to WhatsApp, is one of these
-lists — some just run to millions of lines.
+lists — some run to millions of lines.
 </details>
 
 **3. What is a file, really? And what does the extension (like `.jpg`) do?**

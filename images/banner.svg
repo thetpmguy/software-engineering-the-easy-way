@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Software Engineering in English — the complete course for non-technical people">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#56ccf2"/>
+      <stop offset="100%" stop-color="#2f80ed"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <g opacity="0.08" fill="none" stroke="#ffffff" stroke-width="2">
+    <path d="M40 60 l30 30 -30 30"/>
+    <path d="M1180 200 l30 30 -30 30"/>
+    <path d="M120 240 h60"/>
+    <path d="M1100 80 h60"/>
+    <circle cx="220" cy="90" r="24"/>
+    <circle cx="1060" cy="250" r="24"/>
+    <rect x="90" y="140" width="48" height="48" rx="8"/>
+    <rect x="1140" y="120" width="48" height="48" rx="8"/>
+  </g>
+  <text x="640" y="120" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">Software Engineering</text>
+  <text x="640" y="185" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">in <tspan fill="#56ccf2">Plain English</tspan></text>
+  <rect x="490" y="212" width="300" height="4" rx="2" fill="url(#accent)"/>
+  <text x="640" y="256" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#cfe8f5">The complete course for people who don&#8217;t speak &#8220;tech&#8221; &#8212; yet</text>
+  <text x="640" y="292" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#9fc4d8">20 modules &#183; hands-on labs &#183; quizzes &#183; capstone projects &#183; 100% free</text>
+</svg>
