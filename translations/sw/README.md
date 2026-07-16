@@ -133,7 +133,6 @@ chini — kila moduli inajengwa juu ya iliyotangulia.
 | [Maswali Yanayoulizwa Mara kwa Mara](../../FAQ.md) | Majibu ya kweli: "Je, nimezeeka sana?", "Je, nahitaji hisabati?", muda unaohitajika |
 | [Mwongozo wa Uandishi](../../docs/style-guide.md) | Kanuni za uandishi ambazo kila somo linafuata |
 | [Maelezo ya Usanifu wa Kozi](../../docs/course-design.md) | Kwa nini kozi imejengwa kwa namna hii |
-| [Ripoti ya Ukaguzi](../../docs/audit-report.md) | Kozi ikiwa imekaguliwa kwa mtazamo wa msomaji asiye wa kiufundi |
 
 ## 🎒 Matumizi bila intaneti
 

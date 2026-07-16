@@ -131,7 +131,6 @@ nach unten — jedes Modul baut auf dem vorherigen auf.
 | [FAQ](../../FAQ.md) | Ehrliche Antworten: „Bin ich zu alt?", „Brauche ich Mathe?", realistische Zeitrahmen |
 | [Stilrichtlinien](../../docs/style-guide.md) | Die Schreibregeln, denen jede Lektion folgt |
 | [Notizen zum Kursdesign](../../docs/course-design.md) | Warum der Kurs so aufgebaut ist |
-| [Prüfbericht](../../docs/audit-report.md) | Der Kurs, geprüft aus der Sicht einer nicht-technischen Leserin |
 
 ## 🎒 Offline-Zugriff
 

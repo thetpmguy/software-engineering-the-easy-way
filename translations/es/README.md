@@ -130,7 +130,6 @@ Avanza de arriba hacia abajo — cada módulo se apoya en el anterior.
 | [Preguntas frecuentes](../../FAQ.md) | Respuestas honestas: "¿Soy demasiado mayor?", "¿Necesito matemáticas?", plazos realistas |
 | [Guía de estilo](../../docs/style-guide.md) | Las reglas de escritura que sigue cada lección |
 | [Notas de diseño del curso](../../docs/course-design.md) | Por qué el curso está construido así |
-| [Informe de auditoría](../../docs/audit-report.md) | El curso revisado desde el punto de vista de una persona no técnica |
 
 ## 🎒 Acceso sin conexión
 

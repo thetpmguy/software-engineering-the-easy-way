@@ -53,8 +53,8 @@ real-life automation.
 
 1. Content is written to the [Style Guide](style-guide.md) (banned words list, analogy
    rules, reading-level targets).
-2. Every page is then **audited from a non-technical reader's point of view** — findings
-   and fixes are recorded in the [Audit Report](audit-report.md).
+2. Every page is then **audited from a non-technical reader's point of view** — checked
+   for jargon leaks, banned words, missing analogies, and broken links before publishing.
 3. Learner confusion reports are treated as bugs (see [Contributing](../CONTRIBUTING.md)).
 
 ## Known limitations & future work

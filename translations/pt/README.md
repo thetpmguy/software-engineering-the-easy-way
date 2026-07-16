@@ -126,7 +126,6 @@ para baixo — cada módulo se apoia no anterior.
 | [FAQ](../../FAQ.md) | Respostas honestas: "Sou velho demais?", "Preciso de matemática?", prazos |
 | [Guia de Estilo](../../docs/style-guide.md) | As regras de escrita que toda lição segue |
 | [Notas de Design do Curso](../../docs/course-design.md) | Por que o curso foi construído deste jeito |
-| [Relatório de Auditoria](../../docs/audit-report.md) | O curso revisado do ponto de vista de um leitor não técnico |
 
 ## 🎒 Acesso offline
 

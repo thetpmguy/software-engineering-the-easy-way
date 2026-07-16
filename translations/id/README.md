@@ -127,7 +127,6 @@ bawah — setiap modul dibangun di atas modul sebelumnya.
 | [FAQ](../../FAQ.md) | Jawaban jujur: "Apa aku terlalu tua?", "Perlu jago matematika?", perkiraan waktu |
 | [Panduan Gaya](../../docs/style-guide.md) | Aturan menulis yang diikuti setiap pelajaran |
 | [Catatan Desain Kursus](../../docs/course-design.md) | Kenapa kursus ini dibangun seperti ini |
-| [Laporan Audit](../../docs/audit-report.md) | Kursus ini ditinjau dari sudut pandang pembaca non-teknis |
 
 ## 🎒 Akses Offline
 

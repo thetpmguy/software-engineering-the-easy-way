@@ -121,7 +121,6 @@ on the last.
 | [FAQ](FAQ.md) | Honest answers: "Am I too old?", "Do I need math?", timelines |
 | [Style Guide](docs/style-guide.md) | The writing rules every lesson follows |
 | [Course Design Notes](docs/course-design.md) | Why the course is built this way |
-| [Audit Report](docs/audit-report.md) | The course reviewed from a non-technical reader's POV |
 
 ## 🎒 Offline access
 

@@ -133,7 +133,6 @@ Avancez de haut en bas — chaque module s'appuie sur le précédent.
 | [FAQ](../../FAQ.md) | Des réponses honnêtes : « Suis-je trop vieux ? », « Ai-je besoin de maths ? », les délais réalistes |
 | [Guide de style](../../docs/style-guide.md) | Les règles d'écriture que suit chaque leçon |
 | [Notes de conception du cours](../../docs/course-design.md) | Pourquoi le cours est construit ainsi |
-| [Rapport d'audit](../../docs/audit-report.md) | Le cours relu du point de vue d'un lecteur non technique |
 
 ## 🎒 Accès hors ligne
 
