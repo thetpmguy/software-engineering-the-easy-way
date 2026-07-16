@@ -2,7 +2,7 @@
 
 ![やさしい言葉で学ぶソフトウェアエンジニアリング](../../images/banner.svg)
 
-# 🌍 Software Engineering in English — カリキュラム
+# 🌍 Software Engineering — The Easy Way
 
 ### やさしい言葉で学ぶ、ソフトウェアエンジニアリング入門
 

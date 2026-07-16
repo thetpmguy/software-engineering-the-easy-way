@@ -2,7 +2,7 @@
 
 ![用大白话讲软件工程](../../images/banner.svg)
 
-# 🌍 Software Engineering in English — 课程
+# 🌍 Software Engineering — The Easy Way
 
 ### 用最朴素的大白话讲清楚软件工程
 

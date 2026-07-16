@@ -2,7 +2,7 @@
 
 ![सरल भाषा में सॉफ़्टवेयर इंजीनियरिंग](../../images/banner.svg)
 
-# 🌍 Software Engineering in English — एक संपूर्ण पाठ्यक्रम
+# 🌍 Software Engineering — The Easy Way
 
 ### सॉफ़्टवेयर इंजीनियरिंग, बिल्कुल सीधी-सरल भाषा में
 

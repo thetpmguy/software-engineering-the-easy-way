@@ -2,7 +2,7 @@
 
 ![Rekayasa Perangkat Lunak dalam Bahasa Sederhana](../../images/banner.svg)
 
-# 🌍 Software Engineering in English — Sebuah Kurikulum
+# 🌍 Software Engineering — The Easy Way
 
 ### Rekayasa perangkat lunak, dijelaskan dengan bahasa sehari-hari
 

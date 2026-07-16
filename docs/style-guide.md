@@ -44,7 +44,10 @@ must respect that.
 
 8. **No gatekeeping words.** Banned: "simply", "just" (as in "just do X"), "obviously",
    "clearly", "of course", "trivial", "easy" (describing a task). If it were obvious,
-   they wouldn't be reading a course.
+   they wouldn't be reading a course. *(One deliberate exception: the course's own title,
+   "Software Engineering — The Easy Way", is a brand promise about our teaching approach,
+   not a claim that any particular task is easy. The rule still applies to all lesson,
+   lab, and quiz content — never tell a reader a task is easy.)*
 
 9. **Labs must work with zero installation.** Every hands-on exercise must run in a web
    browser on a phone or a cheap laptop. Free tools only. No sign-up unless unavoidable

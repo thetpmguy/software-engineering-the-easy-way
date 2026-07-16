@@ -2,7 +2,7 @@
 
 ![Engenharia de Software em Linguagem Simples](../../images/banner.svg)
 
-# 🌍 Software Engineering in English — Um Currículo
+# 🌍 Software Engineering — The Easy Way
 
 ### Engenharia de software explicada em linguagem simples
 

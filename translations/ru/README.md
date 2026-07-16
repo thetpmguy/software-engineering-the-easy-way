@@ -2,7 +2,7 @@
 
 ![Программная инженерия простыми словами](../../images/banner.svg)
 
-# 🌍 Software Engineering in English — учебный курс
+# 🌍 Software Engineering — The Easy Way
 
 ### Программная инженерия, объяснённая простыми словами
 

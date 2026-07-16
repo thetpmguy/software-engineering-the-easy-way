@@ -2,7 +2,7 @@
 
 ![সহজ ভাষায় সফটওয়্যার ইঞ্জিনিয়ারিং](../../images/banner.svg)
 
-# 🌍 Software Engineering in English — সফটওয়্যার ইঞ্জিনিয়ারিংয়ের একটি পূর্ণাঙ্গ পাঠ্যক্রম
+# 🌍 Software Engineering — The Easy Way
 
 [![GitHub license](https://img.shields.io/github/license/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/blob/main/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/graphs/contributors/)

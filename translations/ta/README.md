@@ -1,8 +1,8 @@
 <div align="center">
 
-![Software Engineering in Plain English](../../images/banner.svg)
+![Software Engineering — The Easy Way](../../images/banner.svg)
 
-# 🌍 Software Engineering in English — எளிய மொழியில் மென்பொருள் பொறியியல் பாடத்திட்டம்
+# 🌍 Software Engineering — The Easy Way
 
 [![GitHub license](https://img.shields.io/github/license/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/blob/main/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/graphs/contributors/)

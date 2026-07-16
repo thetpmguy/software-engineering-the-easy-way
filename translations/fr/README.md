@@ -2,7 +2,7 @@
 
 ![Le génie logiciel expliqué simplement](../../images/banner.svg)
 
-# 🌍 Software Engineering in English — Un programme complet de génie logiciel
+# 🌍 Software Engineering — The Easy Way
 
 [![GitHub license](https://img.shields.io/github/license/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/blob/main/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/graphs/contributors/)
