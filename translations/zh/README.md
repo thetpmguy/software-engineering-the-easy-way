@@ -6,15 +6,15 @@
 
 ### 用最朴素的大白话讲清楚软件工程
 
-[![GitHub license](https://img.shields.io/github/license/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/blob/main/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/pulls/)
+[![GitHub license](https://img.shields.io/github/license/thetpmguy/software-engineering-the-easy-way.svg)](https://github.com/thetpmguy/software-engineering-the-easy-way/blob/main/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/thetpmguy/software-engineering-the-easy-way.svg)](https://github.com/thetpmguy/software-engineering-the-easy-way/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/thetpmguy/software-engineering-the-easy-way.svg)](https://github.com/thetpmguy/software-engineering-the-easy-way/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/thetpmguy/software-engineering-the-easy-way.svg)](https://github.com/thetpmguy/software-engineering-the-easy-way/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](../../CONTRIBUTING.md)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/thetpmguy/software-engineering-in-english.svg?style=social&label=Watch)](https://github.com/thetpmguy/software-engineering-in-english/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/thetpmguy/software-engineering-in-english.svg?style=social&label=Fork)](https://github.com/thetpmguy/software-engineering-in-english/network/)
-[![GitHub stars](https://img.shields.io/github/stars/thetpmguy/software-engineering-in-english.svg?style=social&label=Star)](https://github.com/thetpmguy/software-engineering-in-english/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/thetpmguy/software-engineering-the-easy-way.svg?style=social&label=Watch)](https://github.com/thetpmguy/software-engineering-the-easy-way/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/thetpmguy/software-engineering-the-easy-way.svg?style=social&label=Fork)](https://github.com/thetpmguy/software-engineering-the-easy-way/network/)
+[![GitHub stars](https://img.shields.io/github/stars/thetpmguy/software-engineering-the-easy-way.svg?style=social&label=Star)](https://github.com/thetpmguy/software-engineering-the-easy-way/stargazers/)
 
 **一门为"听不懂技术黑话"的人准备的完整软件工程课程 —— 现在听不懂，学完就懂了。**
 
@@ -119,7 +119,7 @@
 
 ## 🤝 参与贡献与社区
 
-遇到看不懂的句子？**那是我们课程的缺陷，不是你脑子的问题** —— 请[提一个 issue](https://github.com/thetpmguy/software-engineering-in-english/issues)，或者直接发一个修改：见 [CONTRIBUTING（贡献指南）](../../CONTRIBUTING.md)。翻译是所有贡献中最受欢迎的：见[翻译指南](../README.md)。学完的人：把自己加进[毕业设计作品展示](../../capstone/showcase.md) —— 这也顺便成为你的第一个 pull request。
+遇到看不懂的句子？**那是我们课程的缺陷，不是你脑子的问题** —— 请[提一个 issue](https://github.com/thetpmguy/software-engineering-the-easy-way/issues)，或者直接发一个修改：见 [CONTRIBUTING（贡献指南）](../../CONTRIBUTING.md)。翻译是所有贡献中最受欢迎的：见[翻译指南](../README.md)。学完的人：把自己加进[毕业设计作品展示](../../capstone/showcase.md) —— 这也顺便成为你的第一个 pull request。
 
 ## 📄 许可证
 

@@ -6,15 +6,15 @@
 
 ### やさしい言葉で学ぶ、ソフトウェアエンジニアリング入門
 
-[![GitHub license](https://img.shields.io/github/license/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/blob/main/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/pulls/)
+[![GitHub license](https://img.shields.io/github/license/thetpmguy/software-engineering-the-easy-way.svg)](https://github.com/thetpmguy/software-engineering-the-easy-way/blob/main/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/thetpmguy/software-engineering-the-easy-way.svg)](https://github.com/thetpmguy/software-engineering-the-easy-way/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/thetpmguy/software-engineering-the-easy-way.svg)](https://github.com/thetpmguy/software-engineering-the-easy-way/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/thetpmguy/software-engineering-the-easy-way.svg)](https://github.com/thetpmguy/software-engineering-the-easy-way/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](../../CONTRIBUTING.md)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/thetpmguy/software-engineering-in-english.svg?style=social&label=Watch)](https://github.com/thetpmguy/software-engineering-in-english/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/thetpmguy/software-engineering-in-english.svg?style=social&label=Fork)](https://github.com/thetpmguy/software-engineering-in-english/network/)
-[![GitHub stars](https://img.shields.io/github/stars/thetpmguy/software-engineering-in-english.svg?style=social&label=Star)](https://github.com/thetpmguy/software-engineering-in-english/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/thetpmguy/software-engineering-the-easy-way.svg?style=social&label=Watch)](https://github.com/thetpmguy/software-engineering-the-easy-way/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/thetpmguy/software-engineering-the-easy-way.svg?style=social&label=Fork)](https://github.com/thetpmguy/software-engineering-the-easy-way/network/)
+[![GitHub stars](https://img.shields.io/github/stars/thetpmguy/software-engineering-the-easy-way.svg?style=social&label=Star)](https://github.com/thetpmguy/software-engineering-the-easy-way/stargazers/)
 
 **「テックの言葉」がまだ話せない人のための、ソフトウェアエンジニアリング完全コース。**
 
@@ -135,7 +135,7 @@
 ## 🤝 貢献とコミュニティ
 
 分かりにくい文章を見つけましたか？ **それはこのコースのバグであって、あなたの頭のバグではありません** —
-ぜひ [issue を立てる](https://github.com/thetpmguy/software-engineering-in-english/issues)か、修正を
+ぜひ [issue を立てる](https://github.com/thetpmguy/software-engineering-the-easy-way/issues)か、修正を
 送ってください: [CONTRIBUTING](../../CONTRIBUTING.md) をご覧ください。いちばん求められている貢献は
 翻訳です: [翻訳ガイド](../README.md)をどうぞ。修了した方へ:
 [キャップストーン・ショーケース](../../capstone/showcase.md)に自分を追加してください — それがそのまま、あなたの初めての pull request になります。

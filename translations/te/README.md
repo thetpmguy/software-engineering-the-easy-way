@@ -4,15 +4,15 @@
 
 # 🌍 Software Engineering — The Easy Way
 
-[![GitHub license](https://img.shields.io/github/license/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/blob/main/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/thetpmguy/software-engineering-in-english.svg)](https://github.com/thetpmguy/software-engineering-in-english/pulls/)
+[![GitHub license](https://img.shields.io/github/license/thetpmguy/software-engineering-the-easy-way.svg)](https://github.com/thetpmguy/software-engineering-the-easy-way/blob/main/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/thetpmguy/software-engineering-the-easy-way.svg)](https://github.com/thetpmguy/software-engineering-the-easy-way/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/thetpmguy/software-engineering-the-easy-way.svg)](https://github.com/thetpmguy/software-engineering-the-easy-way/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/thetpmguy/software-engineering-the-easy-way.svg)](https://github.com/thetpmguy/software-engineering-the-easy-way/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](../../CONTRIBUTING.md)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/thetpmguy/software-engineering-in-english.svg?style=social&label=Watch)](https://github.com/thetpmguy/software-engineering-in-english/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/thetpmguy/software-engineering-in-english.svg?style=social&label=Fork)](https://github.com/thetpmguy/software-engineering-in-english/network/)
-[![GitHub stars](https://img.shields.io/github/stars/thetpmguy/software-engineering-in-english.svg?style=social&label=Star)](https://github.com/thetpmguy/software-engineering-in-english/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/thetpmguy/software-engineering-the-easy-way.svg?style=social&label=Watch)](https://github.com/thetpmguy/software-engineering-the-easy-way/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/thetpmguy/software-engineering-the-easy-way.svg?style=social&label=Fork)](https://github.com/thetpmguy/software-engineering-the-easy-way/network/)
+[![GitHub stars](https://img.shields.io/github/stars/thetpmguy/software-engineering-the-easy-way.svg?style=social&label=Star)](https://github.com/thetpmguy/software-engineering-the-easy-way/stargazers/)
 
 **"టెక్" భాష మాట్లాడలేని వారి కోసం సంపూర్ణ సాఫ్ట్‌వేర్ ఇంజినీరింగ్ (software engineering) కోర్సు — ఇంకా నేర్చుకోని వారి కోసం.**
 
@@ -145,7 +145,7 @@
 ## 🤝 పాలుపంచుకోవడం & సమాజం
 
 అయోమయం కలిగించే వాక్యం కనిపించిందా? **అది మా కోర్సులోని బగ్ (bug), మీ మెదడులోది కాదు** —
-దయచేసి [ఒక issue తెరవండి](https://github.com/thetpmguy/software-engineering-in-english/issues)
+దయచేసి [ఒక issue తెరవండి](https://github.com/thetpmguy/software-engineering-the-easy-way/issues)
 లేదా సవరణ పంపండి: [పాలుపంచుకునే మార్గదర్శి](../../CONTRIBUTING.md) చూడండి. అన్నింటికంటే
 ఎక్కువగా కావాల్సిన సహకారం అనువాదాలే: [అనువాద మార్గదర్శి](../README.md) చూడండి. కోర్సు
 పూర్తి చేసినవారు: [Capstone ప్రదర్శనశాలలో](../../capstone/showcase.md) మిమ్మల్ని మీరు

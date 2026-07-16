@@ -9,7 +9,7 @@ your first open-source contribution** — Module 08 teaches you everything you n
 Our core promise is "confusion is our bug, not yours." Hold us to it.
 
 If any sentence in this course made you feel lost or stupid, please
-[open an issue](https://github.com/thetpmguy/software-engineering-in-english/issues/new) and include:
+[open an issue](https://github.com/thetpmguy/software-engineering-the-easy-way/issues/new) and include:
 
 1. **Which file** (paste the link).
 2. **Which sentence or section** lost you.
