@@ -14,7 +14,7 @@
 
 ## 🧠 One analogy to rule this module: the restaurant
 
-Have you ever wondered where an app *is*? When you tap Instagram, some of it is clearly
+Have you ever wondered where an app *is*? When you tap Instagram, some of it must be
 on your phone — you can see it. But your photos don't live in your phone; ten friends
 in three countries can see them. So where's the rest of it?
 

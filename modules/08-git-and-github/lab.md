@@ -10,8 +10,8 @@
 
 > ⚠️ **Watch out:** websites redesign their buttons and menus constantly. If a button
 > isn't exactly where we say, don't worry — we describe the *intent* of every step
-> ("find the option for creating a new repository"), and GitHub's layout keeps those
-> intents easy to spot. Look for the words, not the pixel.
+> ("find the option for creating a new repository"), and GitHub's layout labels those
+> intents in plain words. Look for the words, not the pixel.
 
 ---
 

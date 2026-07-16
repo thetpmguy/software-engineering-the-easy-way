@@ -41,7 +41,7 @@ companies bother with databases? Three reasons, and each one is a disaster story
 
 **Disaster 1: the crowd.** Imagine 10,000 people editing one Excel file at the same
 moment. Two people type into the same cell; whose edit wins? Someone sorts the sheet
-while someone else is halfway through reading it. A shared file simply has no referee.
+while someone else is halfway through reading it. A shared file has no referee at all.
 A database *is* the referee: the librarian takes every request in turn, keeps them
 from trampling each other, and gives each person a consistent view.
 

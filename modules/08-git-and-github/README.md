@@ -140,7 +140,7 @@ stops and asks a human. That situation is a **merge conflict**: two branches cha
 very same lines, and a person must look at both versions and decide (paprika, cumin, or
 both).
 
-Hear this clearly, because it saves beginners real anxiety: **a merge conflict is not a
+Hear this loud, because it saves beginners real anxiety: **a merge conflict is not a
 disaster, an error, or anyone's fault.** It's Git being appropriately humble — refusing
 to guess about your work. On a busy team, conflicts happen weekly. Resolving one is
 ordinary housekeeping, like two editors comparing margin notes.

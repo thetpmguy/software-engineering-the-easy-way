@@ -85,7 +85,7 @@ book could take a million peeks — and two million after the doubling.
 > 1. The whole trick is "the thing I want must be in this half." You can only know
 >    which half if the items are in order. In a shuffled list, the middle item tells
 >    you nothing about where anything else is.
-> 2. Just one extra step. Each doubling of the pile costs binary search only one more
+> 2. One extra step. Each doubling of the pile costs binary search only one more
 >    halving.
 > </details>
 
@@ -149,7 +149,7 @@ repeatedly take whichever front book is shorter, and place it on the new shelf.
 
 > 🌉 **Analogy:** Merging is combining two sorted decks of playing cards. Both decks
 > are face-up and already in order, so at every moment the next card you want is one
-> of just *two* visible cards. You never rummage — you only pick the smaller of two.
+> of only *two* visible cards. You never rummage — you pick the smaller of two.
 >
 > **Where the analogy breaks down:** with cards, you sorted each deck by hand first. In
 > merge sort, each half-shelf gets sorted by... splitting *it* in half too, and so on

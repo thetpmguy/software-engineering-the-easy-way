@@ -108,7 +108,7 @@ that uses it.**
 Recursion is a recipe that solves a problem by applying *itself* to smaller pieces
 of the same problem — like opening Russian nesting dolls, or counting files in a
 folder by doing the same in every subfolder. It works because the pieces keep
-shrinking until they're trivial to handle. Merge sort is recursive: "sort a shelf"
+shrinking until nothing is left to do. Merge sort is recursive: "sort a shelf"
 means "sort each half-shelf" until each shelf is one book.
 </details>
 
